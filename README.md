@@ -1,4 +1,4 @@
-# WorkoutApp 🏋️‍♀️
+# WorkoutApp 
 
 **WorkoutApp** ist eine Android-App (API 26, Android 8)
 
